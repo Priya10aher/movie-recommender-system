@@ -1,4 +1,4 @@
 ﻿streamlit
 requests
 Flask==2.0.3
-gunicorn==19.9.0
+gunicorn==19.0.0
