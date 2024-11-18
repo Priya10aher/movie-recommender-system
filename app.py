@@ -3,6 +3,7 @@ import pickle
 import pandas as pd
 import requests
 from flask import Flask,render_template
+from streamlit.script_run_context import add_script_run_ctx
 
 app=Flask(__name__)
 
